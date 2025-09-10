@@ -338,7 +338,7 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 
     SOURCE_TXT = """<b>
 NOTE:
-- Create Your Bot ◉› :<blockquote><a href="https://t.me/tanim1254">Tanim</a></blockquote>
+- Create Your Bot ◉› :<blockquote><a href="https://t.me/mrmoviepointc">Mr. Movie Point</a></blockquote>
 
 developer : Tanim
 </b>""" 
@@ -367,7 +367,8 @@ developer : Tanim
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀʟʟ ᴅᴇᴛᴀɪʟs 
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
-Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/tanim1254">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/tanim1254">ᴀᴅᴍɪɴ</a></b>"""
+Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/mrmoviepointchat">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/tanim1254">ᴀᴅᴍɪɴ</a></b>"""
+
 
 
 

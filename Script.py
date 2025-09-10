@@ -259,7 +259,7 @@ User - {}"""
 
 ! Cut this and Type here Your own plane for exl
 
-1 Month 80 Rupees
+1 Month 100 TAKA
 
  <code> 01560007902 </code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ ᴀɴᴅ ʙᴋᴀsʜ ᴘᴀʏᴍᴇɴᴛ]
  
@@ -368,6 +368,7 @@ developer : Mr.Jisshu
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
 Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/IM_JISSHU">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/IM_JISSHU">ᴀᴅᴍɪɴ</a></b>"""
+
 
 
 
